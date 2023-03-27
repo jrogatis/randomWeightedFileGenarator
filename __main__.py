@@ -1,5 +1,5 @@
 import csv
-import model as md
+import modelRandonWeighted as md
 
 quant_lines = 100000
 lines = 0
